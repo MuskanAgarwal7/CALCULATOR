@@ -1,0 +1,10 @@
+.inputText {
+  width: 100%;
+  text-align: right;
+  font-size: 4rem;
+  padding: 3px;
+  resize: none;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.238);
+  color: white;
+}
